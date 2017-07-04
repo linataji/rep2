@@ -1,1 +1,1 @@
-repostry 2
+repostry 2 fromlinux
